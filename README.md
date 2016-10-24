@@ -1,6 +1,7 @@
 # go-host-multi-domains-example
 
 [![Build Status](https://travis-ci.org/northbright/go-host-multi-domains-example.svg?branch=master)](https://travis-ci.org/northbright/go-host-multi-domains-example)
+[![Go Report Card](https://goreportcard.com/badge/github.com/northbright/go-host-multi-domains-example)](https://goreportcard.com/report/github.com/northbright/go-host-multi-domains-example)
 
 Example of hosting multiple domains in a single Golang HTTP server.
 
